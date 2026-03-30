@@ -1,7 +1,7 @@
-## Hi there 👋
+## hello 👋
 
 <!--
-**vxd-1335/vxd-1335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vxd-1335/vxd-1335** is a ✨ _special_ ✨ repository because its `README.md=` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
