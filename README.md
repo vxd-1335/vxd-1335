@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZndnV3eXh6eXh6eXh6eXh6eXh6eXh6eXh6eXh6eXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpcGh5X2NvbS80N0UvY2F0LWNvZGluZy5naWY/giphy.gif" alt="Yahya's Workspace" width="55%"/> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZndnV3eXh6eXh6eXh6eXh6eXh6eXh6eXh6eXh6eXh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBmcm9tX2dpcGh5X2NvbS80N0UvY2F0LWNvZGluZy5naWY/giphy.gif" alt="Yahya's Creative Space" width="55%"/> 
 
 ## 🕋 | Yahya Hussein - يحيى حسين
-### "Quran Carrier | Tech Enthusiast | Chess Strategist" 🚀
+### "I Memorize the Quran | Coding Enthusiast | Chess Strategist" ♟️
 
 ![Hits](https://komarev.com/ghpvc/?username=YahyaHussein&style=flat-square&color=blue&label=VISITORS)
 [![Telegram](https://img.shields.io/badge/Connect-Telegram-0088cc?style=flat-square&logo=telegram)](https://t.me/spxd007)
@@ -12,15 +12,15 @@
 
 <hr>
 
-### 📖 | About Me - نبذة عني
-I am **Yahya**, a 9th-grade student from Kuwait 🇰🇼. My journey is a blend of spiritual growth, academic excellence, and digital creativity.
+### 📖 | Who am I?
+I am **Yahya**, a 9th-grade student from Kuwait 🇰🇼. My life is built on discipline, faith, and continuous learning.
 
-* **🕋 Quran Hafiz:** Dedicated to the Book of Allah, seeking wisdom and peace through its verses.
-* **🐍 Python & C:** Mastering the logic of programming through the **CS50** journey.
-* **🎨 Canva Designer:** Transforming ideas into visual reality with professional layouts and branding.
-* **🌐 Web Builder:** Crafting the digital world using **HTML5** and **CSS3**.
-* **♟️ Chess Strategist:** 1200 ELO player | Loyal to the **London System**.
-* **🎥 Future Creator:** Preparing to launch an educational YouTube channel to share knowledge.
+* **🕋 Quran Memorization:** I am dedicated to memorizing and living by the Holy Quran.
+* **🐍 Python & C:** Currently tackling the **CS50** challenge and mastering core CS concepts.
+* **🎨 Canva Expert:** Designing professional visual identities and layouts.
+* **🌐 Web Dev:** Building the digital future with **HTML5** & **CSS3**.
+* **♟️ Chess:** 1200 ELO Player | Master of the **London System**.
+* **💪 Fitness:** Committed to daily core strength and bodyweight exercises (Push-ups!).
 
 ---
 
@@ -30,44 +30,25 @@ I am **Yahya**, a 9th-grade student from Kuwait 🇰🇼. My journey is a blend 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ```python
-# The Core Logic of My Life
+# My Daily System
 class YahyaHussein:
     def __init__(self):
-        self.identity = "Muslim / Hafiz"
-        self.status = "9th Grade Student in Kuwait 🇰🇼"
-        self.current_goal = "CS50 Completion & YouTube Launch"
+        self.identity = "Muslim / Quran Student"
+        self.status = "9th Grade | Kuwait 🇰🇼"
+        self.focus = "CS50 Journey & Web Design"
 
-    def daily_priorities(self):
-        # Setting the foundations first
-        self.read_quran()
+    def daily_loop(self):
+        # Starting with the most important
+        self.quran_memorization() 
         
-        # Building the future
-        self.code(languages=["Python", "C", "HTML/CSS"])
-        self.design(tool="Canva", style="Professional")
+        # Skill building
+        self.code(languages=["Python", "C", "HTML"])
+        self.design_with_canva()
         
-        # Training the mind
-        if self.brain_needs_challenge:
-            self.play_chess(elo=1200, strategy="London System")
-            
-        return "Alhamdulillah for everything."# My Daily Logic Loop
-class Yahya:
-    def __init__(self):
-        self.location = "Kuwait"
-        self.grade = 9
-        self.languages = ["Python", "C", "HTML", "CSS"]
-        self.current_goal = "Complete CS50 & Launch YouTube Channel"
-
-    def daily_routine(self):
-        while True:
-            self.solve_problems(language="Python")
-            self.debug_segmentation_faults(language="C")
-            self.style_the_web(language="CSS")
-            
-            if self.chess_rating < 1300:
-                self.play_match(opening="London System")
-            
-            self.design_with_canva()
-            break # Just kidding, the grind never stops!
+        # Physical & Mental training
+        self.push_ups(sets=3) 
+        self.play_chess(opening="London System")
+        
+        return "Alhamdulillah for every step."
